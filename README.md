@@ -1,4 +1,4 @@
 # counter-demo
 This is my first JS repository
 
-Author-Madiha Qureshi
+Author-Madiha Qureshi.
